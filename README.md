@@ -37,6 +37,7 @@ Category
     
     
   [GET]  /api/Category/List
+  
     Response:
     
       { "data": {}, "success": false, "message": "Yetkili kullanıcı değil!" }
@@ -92,6 +93,7 @@ Movie
   
     Response:
       { "data": {}, "success": false, "message": "Yetkili kullanıcı değil!" }
+      
   
   [POST] /api/Movie/Update
   
