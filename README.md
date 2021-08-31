@@ -27,7 +27,8 @@ WriteAndRead:
     }
 
 
-Category
+Category;
+
   [POST] /api/Category/Add
   
     Request:
@@ -71,7 +72,8 @@ Category
       
 
 
-Movie
+Movie;
+
   [POST] /api/Movie/Add
   
     Request:
@@ -125,7 +127,7 @@ Movie
     
     
     
-Schemas
+Schemas;
 
     Category{
       id	integer($int32)
