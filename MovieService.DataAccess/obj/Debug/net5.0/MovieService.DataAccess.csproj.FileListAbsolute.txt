@@ -1,0 +1,11 @@
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\bin\Debug\net5.0\MovieService.DataAccess.deps.json
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\bin\Debug\net5.0\MovieService.DataAccess.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\bin\Debug\net5.0\ref\MovieService.DataAccess.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\bin\Debug\net5.0\MovieService.DataAccess.pdb
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\obj\Debug\net5.0\MovieService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\obj\Debug\net5.0\MovieService.DataAccess.AssemblyInfoInputs.cache
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\obj\Debug\net5.0\MovieService.DataAccess.AssemblyInfo.cs
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\obj\Debug\net5.0\MovieService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\obj\Debug\net5.0\MovieService.DataAccess.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\obj\Debug\net5.0\ref\MovieService.DataAccess.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.DataAccess\obj\Debug\net5.0\MovieService.DataAccess.pdb

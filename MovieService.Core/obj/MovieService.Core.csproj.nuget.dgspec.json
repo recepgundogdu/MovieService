@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.Core\\MovieService.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.Core\\MovieService.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.Core\\MovieService.Core.csproj",
+        "projectName": "MovieService.Core",
+        "projectPath": "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.Core\\MovieService.Core.csproj",
+        "packagesPath": "C:\\Users\\recep.gundogdu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\recep.gundogdu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.DataAccess\\MovieService.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.DataAccess\\MovieService.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AspectInjector": {
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.DataAccess\\MovieService.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.DataAccess\\MovieService.DataAccess.csproj",
+        "projectName": "MovieService.DataAccess",
+        "projectPath": "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.DataAccess\\MovieService.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\recep.gundogdu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\recep.gundogdu\\source\\repos\\MovieService\\MovieService.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\recep.gundogdu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

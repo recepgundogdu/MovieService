@@ -1,0 +1,15 @@
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\bin\Debug\net5.0\MovieService.Core.deps.json
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\bin\Debug\net5.0\MovieService.Core.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\bin\Debug\net5.0\ref\MovieService.Core.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\bin\Debug\net5.0\MovieService.Core.pdb
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\bin\Debug\net5.0\MovieService.DataAccess.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\bin\Debug\net5.0\MovieService.DataAccess.pdb
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\MovieService.Core.csproj.AssemblyReference.cache
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\MovieService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\MovieService.Core.AssemblyInfoInputs.cache
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\MovieService.Core.AssemblyInfo.cs
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\MovieService.Core.csproj.CoreCompileInputs.cache
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\MovieService.Core.csproj.CopyComplete
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\MovieService.Core.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\ref\MovieService.Core.dll
+C:\Users\recep.gundogdu\source\repos\MovieService\MovieService.Core\obj\Debug\net5.0\MovieService.Core.pdb
