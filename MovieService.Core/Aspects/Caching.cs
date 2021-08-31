@@ -13,7 +13,7 @@ namespace MovieService.Core.Aspects
         public object HandleMethod([Argument(Source.Name)] string name, [Argument(Source.Arguments)] object[] arguments, [Argument(Source.Target)] Func<object[], object> method)
         {
             object result = null;
-            string key = $"{name}.{JsonConvert.SerializeObject(arguments)}";
+            string key = $"{method?.Target?.ToString()}.{name}.{JsonConvert.SerializeObject(arguments)}";
             ObjectCache cache = MemoryCache.Default;
             var isCached = cache.Contains(key);
             if (isCached)
