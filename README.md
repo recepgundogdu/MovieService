@@ -9,22 +9,20 @@ There are 2 type users.
 
 OnlyRead:
 
-Request: 
 
-  {
-    "userName": "URead",
-    "password": "123"
-  }
-
+    {
+      "userName": "URead",
+      "password": "123"
+    }
+  
 
 WriteAndRead:
 
-Request: 
 
-{
-  "userName": "UWrite",
-  "password": "321"
-}
+    {
+      "userName": "UWrite",
+      "password": "321"
+    }
 
 
 Category
@@ -127,24 +125,28 @@ Movie
     
 Schemas
 
-  Category{
-    id	integer($int32)
-    name	string
-  }
-  LoginForm{
-    userName	string
-    nullable: true
-    password	string
-  }
-  Movie{
-    id	integer($int32)
-    name	string
-    picture	string
-    detail	string
-    imdb	string
-    year	integer($int32)
-    categoryId	integer($int32)
-    types	[string]
-    medias	[string]
-  }
+    Category{
+      id	integer($int32)
+      name	string
+    }
+    
+    
+    LoginForm{
+      userName	string
+      nullable: true
+      password	string
+    }
+    
+    
+    Movie{
+      id	integer($int32)
+      name	string
+      picture	string
+      detail	string
+      imdb	string
+      year	integer($int32)
+      categoryId	integer($int32)
+      types	[string]
+      medias	[string]
+    }
 
