@@ -29,7 +29,6 @@ namespace MovieService.DataAccess
                             Types = new List<string> { $"Type {i}" },
                         });
                     }
-                    return _movies;
                 }
                 return _movies;
             }

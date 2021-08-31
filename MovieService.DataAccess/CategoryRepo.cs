@@ -5,24 +5,24 @@ namespace MovieService.DataAccess
 {
     public static class CategoryRepo
     {
+        private static List<Category> _categories { get; set; }
         private static List<Category> Categories
         {
             get
             {
-                if (Categories.Count == 0)
+                if (_categories == null)
                 {
-                    List<Category> list = new List<Category>();
+                    _categories = new List<Category>();
                     for (int i = 1; i <= 100; i++)
                     {
-                        list.Add(new Category
+                        _categories.Add(new Category
                         {
                             Id = i,
                             Name = $"Category {i}",
                         });
                     }
-                    return list;
                 }
-                return Categories;
+                return _categories;
             }
             set { Categories = value; }
         }
