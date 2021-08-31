@@ -25,10 +25,13 @@ Category
       { "success": true, "message": null }
     
   [GET]  /api/Category/GetById
+  
     Request:
       Id - integer
+      
     Response:
       { "data": { "id": 1, "name": "Category 1" }, "success": true, "message": null }
+    
     
   [GET]  /api/Category/List
     Response:
